@@ -1,0 +1,8 @@
+[package]
+name = "brainfuck"
+version = "0.1.0"
+authors = ["Pedro Pinheiro <pdpinheiro@gmail.com>"]
+
+[[bin]]
+name = "bf"
+path = "bin/bf.rs"
